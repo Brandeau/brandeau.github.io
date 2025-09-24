@@ -1,0 +1,12 @@
+[en]
+title = "My website"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[ar]
+title = "Mi sitio web"
+contentDir = "content/spanish"
+weight = 2
+LanguageName = "ES"
+[es.params]
