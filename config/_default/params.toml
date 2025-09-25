@@ -1,7 +1,7 @@
 
 title = "Diego Andrade"
 author = "Diego Andrade"
-#copyright = "2025"
+copyright = "2025"
 description = "Translator \nProgrammer \nActivist"
 profilePicture = "images/profile.jpg"
 keywords = ""
@@ -14,8 +14,8 @@ mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
-#contactFormAction = "https://formspree.io/f/your-form-hash-here"
-#contactFormReCaptcha = "your-site-key-here"
+contactFormAction = "https://formspree.io/f/mvgwojnd"
+contactFormReCaptcha = "6Lfg9NQrAAAAAGXVRzCPCX6THdOHYRIr3Oo-RFj9"
 # Google Fonts
 #googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 # Google Site Verify
