@@ -4,7 +4,7 @@ weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
-[ar]
+[es]
 title = "Mi sitio web"
 contentDir = "content/spanish"
 weight = 2

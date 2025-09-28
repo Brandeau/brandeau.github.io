@@ -1,0 +1,41 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Portfolio"
+  weight = 200
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+  [[main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Accomplishments"
+  weight = 400
+  identifier = "accomplishments"
+
+  [[main]]
+  name = "Certifications"
+  weight = 410
+  identifier = "certifications"
+  url = "/certifications/"
+  parent = "accomplishments"
+
+  [[main]]
+  name = "Contact"
+  weight = 500
+  identifier = "contact"
+  url = "/contact/"
+
+  [[footer]]
+  name = "theme"
+  weight = 1
+  identifier = "theme"
+  url = "/theme/"

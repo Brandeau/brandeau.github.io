@@ -1,0 +1,41 @@
+[[main]]
+  name = "Inicio"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Portafolio"
+  weight = 200
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+  [[main]]
+  name = "Sobre mí"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Logros"
+  weight = 400
+  identifier = "accomplishments"
+
+  [[main]]
+  name = "Certificaciones"
+  weight = 410
+  identifier = "certifications"
+  url = "/certifications/"
+  parent = "accomplishments"
+
+  [[main]]
+  name = "Contacto"
+  weight = 500
+  identifier = "contact"
+  url = "/contact/"
+
+  [[footer]]
+  name = "theme"
+  weight = 1
+  identifier = "theme"
+  url = "/theme/"
