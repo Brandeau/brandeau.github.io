@@ -1,0 +1,59 @@
+portfolioitems:
+  # portfolio category
+  - title: Coding Projects
+    description: 'Highlighted projects'
+    portfolioitem:
+      - name: DESU
+        image: '/images/portfolio/code.jpg'
+        link: https://github.com/Brandeau/DESU
+        linktext: 'Visit project github'
+        description: 'CLI application. A cinema aggregator that displays all possible showings of a movie across different theater chains. Written in TypeScript'
+        tags:
+          - TypeScript
+          - CLI application
+          - Movies
+        status: 'version 1.0.7'
+        start: '2025'
+        end: 'Constant updates'
+        authors:
+          - Diego Andrade
+      - name: Twice fanpage
+        image: '/images/portfolio/twice-fanpage.png'
+        link: https://github.com/Brandeau/twice-fanpage
+        linktext: 'Visit project github'
+        description: 'A fanpage for the kpop group Twice made in React/NextJS and hosted on Vercel'
+        status: 'Finished'
+        tags:
+          - React
+          - NextJS 
+          - Vercel
+          - Website
+          - Twice
+        authors:
+          - Diego Andrade
+      - name: Pokémon Smash or Pass
+        image: '/images/portfolio/smash-or-pass.png'
+        link: https://github.com/Brandeau/smash-or-pass
+        linktext: 'Visit project github'
+        status: 'Finished'
+        description: 'A game for the browser where you approve or disapprove of every Pokémon. Written in vanilla JavaScript'
+        tags:
+          - Pokémon
+          - JavaScript 
+          - Browser
+        authors:
+          - Diego Andrade
+      - name: Don Gásfiter
+        image: '/images/portfolio/dongasfiter.png'
+        link: https://github.com/Brandeau/don-gasfiter
+        linktext: 'Visit project github'
+        status: 'Finished'
+        description: 'A website developed using Handlebars templating language, HTML, CSS and vanilla JavaScript'
+        tags:
+          - Handlebars
+          - JavaScript 
+          - HTML
+          - CSS
+          - Website
+        authors:
+          - Diego Andrade

@@ -1,0 +1,59 @@
+portfolioitems:
+  # portfolio category
+  - title: Proyectos de programación
+    description: 'Proyectos destacados'
+    portfolioitem:
+      - name: DESU
+        image: '/images/portfolio/code.jpg'
+        link: https://github.com/Brandeau/DESU
+        linktext: 'Visita el proyecto en github'
+        description: 'Aplicación para la línea de comandos. Applicación que agrupa todas las funciones existentes de una película desde distintas cadenas de cine (Santiago). Escrito en TypeScript'
+        tags:
+          - TypeScript
+          - CLI application
+          - Movies
+        status: 'versión 1.0.7'
+        start: '2025'
+        end: 'Constantemente actualizada'
+        authors:
+          - Diego Andrade
+      - name: Twice fanpage
+        image: '/images/portfolio/twice-fanpage.png'
+        link: https://github.com/Brandeau/twice-fanpage
+        linktext: 'Visita el proyecto en github'
+        description: 'Una fanpage para la agrupación de kpop Twice hecha en React/NextJS y levantada en Vercel'
+        status: 'Finalizado'
+        tags:
+          - React
+          - NextJS 
+          - Vercel
+          - Website
+          - Twice
+        authors:
+          - Diego Andrade
+      - name: Pokémon Smash or Pass
+        image: '/images/portfolio/smash-or-pass.png'
+        link: https://github.com/Brandeau/smash-or-pass
+        linktext: 'Visita el proyecto en github'
+        status: 'Finalizado'
+        description: 'Juego para el navegador en el que el usuario aprueba o desaprueba a cada Pokémon. Desarrollado en JavaScript vainilla'
+        tags:
+          - Pokémon
+          - JavaScript 
+          - Browser
+        authors:
+          - Diego Andrade
+      - name: Don Gásfiter
+        image: '/images/portfolio/dongasfiter.png'
+        link: https://github.com/Brandeau/don-gasfiter
+        linktext: 'Visita el proyecto en github'
+        status: 'Finalizado'
+        description: 'Sitio web hecho con el lenguaje de plantillas de Handlebars, HTML, CSS y JavaScript vainilla'
+        tags:
+          - Handlebars
+          - JavaScript 
+          - HTML
+          - CSS
+          - Website
+        authors:
+          - Diego Andrade
