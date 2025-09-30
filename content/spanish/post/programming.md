@@ -13,7 +13,7 @@ tags:
     - Django
 ---
 
-Soy programador autodidacta. Lee más aquí.
+Soy programador autodidacta. En la sección Portafolio puedes ver una muestra de mis proyectos destacados. O puedes leer más aquí.
 
 <!-- more -->
 

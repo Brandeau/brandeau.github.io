@@ -13,7 +13,7 @@ tags:
     - Django
 ---
 
-I'm a self-taught fullstack developer. Learn more about it here.
+I'm a self-taught fullstack developer. You can see a sample of the projects I've developed in the portfolio section.  Or you can learn more about it here.
 
 <!-- more -->
 
