@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "es"
+DefaultContentLanguage = "es"
 title = "Website of Jane Doe"
 
 # theme as hugo module
