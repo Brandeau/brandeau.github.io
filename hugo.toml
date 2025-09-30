@@ -6,3 +6,6 @@ theme = 'anatole'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params]
+  displayMode = "dark"
