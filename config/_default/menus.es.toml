@@ -29,8 +29,14 @@
   parent = "accomplishments"
 
   [[main]]
-  name = "Contacto"
+  name = "Curriculum"
   weight = 500
+  identifier = "resume"
+  url = "/resume/"
+
+  [[main]]
+  name = "Contacto"
+  weight = 600
   identifier = "contact"
   url = "/contact/"
 
