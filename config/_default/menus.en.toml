@@ -8,13 +8,13 @@
   name = "Portfolio"
   weight = 200
   identifier = "portfolio"
-  url = "/portfolio/"
+  url = "/en/portfolio/"
 
   [[main]]
   name = "About"
   weight = 300
   identifier = "about"
-  url = "/about/"
+  url = "/en/about/"
 
   [[main]]
   name = "Accomplishments"
@@ -25,23 +25,23 @@
   name = "Certifications"
   weight = 410
   identifier = "certifications"
-  url = "/certifications/"
+  url = "/en/certifications/"
   parent = "accomplishments"
 
   [[main]]
   name = "Resume"
   weight = 500
   identifier = "resume"
-  url = "/resume/"
+  url = "/en/resume/"
 
   [[main]]
   name = "Contact"
   weight = 600
   identifier = "contact"
-  url = "/contact/"
+  url = "/en/contact/"
 
   [[footer]]
   name = "theme"
   weight = 1
   identifier = "theme"
-  url = "/theme/"
+  url = "/en/theme/"
