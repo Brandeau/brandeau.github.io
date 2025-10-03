@@ -9,7 +9,7 @@ tags:
   - sintiencia
 ---
 
-Desde 2005 he apoyado los esfuerzos por extender protecciones éticas a otros animales. Si deseas, puedes leer más sobre el tema aquí.
+Desde 2005 he apoyado los esfuerzos por extender protecciones éticas a otros animales. 
 
 Entre 2006 y 2009, trabajé junto otros activistas con ideales afines en el incipiente movimiento de derechos animales en el país. Como parte de Homovegetus, lo que entonces era una agrupación de individuos, contribuí definiendo su posición filosófica sobre otros animales y su valor moral. En conjunto con diseñadores, desarrollé panfletos, trípticos, posters y otros materiales para difundir entre la población la importancia del sufrimiento de otros animales, así como también las alternativas para reducir su sufrimiento. Participé de protestas, manifestaciones y di charlas sobre la filosofía de los derechos animales y el sufrimiento de los nohumanos. Organizamos exhibiciones de documentales de manera regular, libres y gratuitas, sobre temas como medioambientalismo, derechos animales y otras problemáticas sociales. También trabajé en la organización de lo que se convertiría en la primera fonda vegetariana del país, por tres años seguidos.
 

@@ -9,7 +9,7 @@ tags:
   - sentience
 ---
 
-I've been supporting efforts to extend ethical protection to other animals since 2005. If you are so inclined, read more about it here.
+I've been supporting efforts to extend ethical protection to other animals since 2005. 
 
 From 2006 to 2009 I worked alongside like-minded people in the incipient animal rights movement in the country. As part of Homovegetus, what was then an organization of different individuals, I contributed to the fine-tuning of the organization's philosophical positions with regards to other animals and their moral worth. In conjunction with designers, I developed booklets, pamphlets, posters and other materials to spread awareness among the population regarding the suffering of animals, as well as the options available to reduce their suffering. I participated in protests, demonstrations and gave talks on the philosophy of animal rights and the plight of nonhuman animals. We regularly organized free and open events where documentaries on environmentalism, animal rights and other social issues where exhibited. I also worked on the event that became the first plant-based alternative to the country's Independence celebrations for three consecutive years.
 

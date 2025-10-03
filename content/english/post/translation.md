@@ -13,7 +13,7 @@ tags = [
 roche = "images/roche_logo.svg"
 +++
 
-I graduated from the University of Santiago with a degree in Linguistics Applied to Translation in both English and Japanese. I've worked with a variety of clients in different industries ever since. Click here to learn more.
+I graduated from the University of Santiago with a degree in Linguistics Applied to Translation in both English and Japanese. I've worked with a variety of clients in different industries ever since. 
 
 <!--more-->
 
