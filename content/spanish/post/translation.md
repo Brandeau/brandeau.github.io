@@ -13,7 +13,7 @@ tags = [
 thumbnail= ""
 +++
 
-Me gradué de la Universidad de Santiago de la carrera de Lingüística aplicada a la traducción en inglés y japonés. Desde entonces he trabajado con una gran variedad de clientes de distintos rubros. Haz click aquí para saber más.
+Me gradué de la Universidad de Santiago de la carrera de Lingüística aplicada a la traducción en inglés y japonés. Desde entonces he trabajado con una gran variedad de clientes de distintos rubros. 
 
 <!--more-->
 
